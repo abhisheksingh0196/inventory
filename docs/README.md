@@ -12,4 +12,4 @@ Here you can find the documentation for shelf.
 - [Single sign-on](./sso/README.md) - Single sign-on powered by Supabase
 - [Docker](./docker.md) - Run shelf via docker
 - [Hooks](./hooks.md) - Shelf's utility hooks
-- [Contributing](../CONTRIBUTING.md) - Contributing to Shelf.
+- [Contributing](../CONTRIBUTING.md) - Contributing to Shelf.testing
